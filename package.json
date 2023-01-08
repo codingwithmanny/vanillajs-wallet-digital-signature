@@ -1,0 +1,19 @@
+{
+  "name": "vanillajs-wallet-digital-signature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "author": {
+    "name": "@codingwithmanny",
+    "url": "https://github.com/codingwithmanny"
+  },
+  "scripts": {
+    "dev": "./node_modules/.bin/live-server --port=3001 --watch=$PWD/public --mount=/:./public;"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
