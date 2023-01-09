@@ -2,6 +2,10 @@
 
 A code example showing how to create digital signatures with MetaMask with just HTML and JavaScript.
 
+This code repository is based on the article [How To Create MetaMask Wallet Signatures With Pure VanillaJS](https://codingwithmanny.medium.com/how-to-create-metamask-wallet-signatures-with-pure-vanillajs-845379bb42f6)
+
+![/README/article.png](/README/article.png)
+
 ---
 
 ## Requirement
